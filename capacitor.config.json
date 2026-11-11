@@ -1,0 +1,7 @@
+{
+  "appId": "app.financeiro.pessoal",
+  "appName": "Financeiro 3.0",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#08161d" }
+}

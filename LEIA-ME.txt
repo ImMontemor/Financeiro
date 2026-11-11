@@ -1,0 +1,8 @@
+FINANCEIRO 3.0 - PROJETO DO APK (com captura de notificacoes)
+
+1. Envie TODO o conteudo desta pasta para o repositorio privado no GitHub
+   (os arquivos novos substituem os antigos). O arquivo
+   .github/workflows/build-apk.yml deve ser editado pelo GitHub (lapis) e substituido pelo novo.
+2. Aba Actions: o app e compilado sozinho (3 a 6 minutos).
+3. Baixe "Financeiro-APK" em Artifacts, extraia e instale o app-debug.apk.
+4. No app: Ajustes > Captura de notificacoes > Ativar leitura.
